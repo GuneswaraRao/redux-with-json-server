@@ -1,0 +1,57 @@
+{
+  "user": [
+    {
+      "name": "jcvdsjcvs",
+      "address": "Australia",
+      "email": "adam@gmail.com",
+      "contact": "858948",
+      "id": 3
+    },
+    {
+      "name": "guna P",
+      "email": "guna@gmail.com",
+      "contact": "999999",
+      "address": "India,Ap",
+      "id": 4
+    },
+    {
+      "name": "ramu",
+      "email": "ramu@dcdc.com",
+      "contact": "9089090",
+      "address": "dxdwcxdw",
+      "id": 5
+    },
+    {
+      "name": "guneswararao",
+      "email": "guna7810@gmail.com",
+      "contact": "9494955435",
+      "address": "fvmdfkvk",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 8
+    },
+    {
+      "password": "123456",
+      "email": "guna@gmail.com",
+      "id": 9
+    },
+    {
+      "password": "kjvkdsfvn",
+      "email": "ktjgktrg@gfbd.com",
+      "id": 11,
+      "address": "yiyiy",
+      "name": "oio",
+      "contact": "999999"
+    },
+    {
+      "password": "12345",
+      "email": "guna@gmail.com",
+      "id": 12
+    },
+    {
+      "password": "12345",
+      "email": "guna@gmail.com",
+      "id": 13
+    }
+  ]
+}
